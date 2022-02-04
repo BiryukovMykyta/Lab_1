@@ -9,6 +9,7 @@ namespace Lab_1
             Console.WriteLine("Hello World!!!");
             Console.WriteLine("Some changes...");
             Console.WriteLine("Some changes were made");
+            Console.WriteLine("Some ither changes...");
         }
     }
 }
